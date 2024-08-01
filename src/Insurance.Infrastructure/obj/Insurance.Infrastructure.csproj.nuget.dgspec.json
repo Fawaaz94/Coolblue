@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Infrastructure/Insurance.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/Insurance.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/Insurance.Application.csproj",
+        "projectName": "Insurance.Application",
+        "projectPath": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/Insurance.Application.csproj",
+        "packagesPath": "/Users/fdassie/.nuget/packages/",
+        "outputPath": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fdassie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apps-its-us-deloitte/_packaging/USITSDAS-Private-GES-Dev/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dttnl-tax-ita/f643c29a-1d30-4144-96b1-6ff2680d590c/_packaging/ETP/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/Insurance.Domain.csproj": {
+                "projectPath": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/Insurance.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/Insurance.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/Insurance.Domain.csproj",
+        "projectName": "Insurance.Domain",
+        "projectPath": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/Insurance.Domain.csproj",
+        "packagesPath": "/Users/fdassie/.nuget/packages/",
+        "outputPath": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fdassie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apps-its-us-deloitte/_packaging/USITSDAS-Private-GES-Dev/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dttnl-tax-ita/f643c29a-1d30-4144-96b1-6ff2680d590c/_packaging/ETP/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Infrastructure/Insurance.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Infrastructure/Insurance.Infrastructure.csproj",
+        "projectName": "Insurance.Infrastructure",
+        "projectPath": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Infrastructure/Insurance.Infrastructure.csproj",
+        "packagesPath": "/Users/fdassie/.nuget/packages/",
+        "outputPath": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fdassie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apps-its-us-deloitte/_packaging/USITSDAS-Private-GES-Dev/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dttnl-tax-ita/f643c29a-1d30-4144-96b1-6ff2680d590c/_packaging/ETP/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/Insurance.Application.csproj": {
+                "projectPath": "/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/Insurance.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

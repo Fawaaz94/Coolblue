@@ -1,0 +1,13 @@
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/bin/Debug/net8.0/Insurance.Domain.deps.json
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/bin/Debug/net8.0/Insurance.Domain.dll
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/bin/Debug/net8.0/Insurance.Domain.pdb
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/Debug/net8.0/Insurance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/Debug/net8.0/Insurance.Domain.AssemblyInfoInputs.cache
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/Debug/net8.0/Insurance.Domain.AssemblyInfo.cs
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/Debug/net8.0/Insurance.Domain.csproj.CoreCompileInputs.cache
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/Debug/net8.0/Insurance.Domain.sourcelink.json
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/Debug/net8.0/Insurance.Domain.dll
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/Debug/net8.0/refint/Insurance.Domain.dll
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/Debug/net8.0/Insurance.Domain.pdb
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/Debug/net8.0/ref/Insurance.Domain.dll
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Domain/obj/Debug/net8.0/Insurance.Domain.csproj.AssemblyReference.cache

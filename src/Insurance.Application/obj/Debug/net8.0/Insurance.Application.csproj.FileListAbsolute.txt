@@ -1,0 +1,16 @@
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/bin/Debug/net8.0/Insurance.Application.deps.json
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/bin/Debug/net8.0/Insurance.Application.dll
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/bin/Debug/net8.0/Insurance.Application.pdb
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/bin/Debug/net8.0/Insurance.Domain.dll
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/bin/Debug/net8.0/Insurance.Domain.pdb
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/Insurance.Application.csproj.AssemblyReference.cache
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/Insurance.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/Insurance.Application.AssemblyInfoInputs.cache
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/Insurance.Application.AssemblyInfo.cs
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/Insurance.Application.csproj.CoreCompileInputs.cache
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/Insurance.Application.sourcelink.json
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/Insuranc.924AC255.Up2Date
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/Insurance.Application.dll
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/refint/Insurance.Application.dll
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/Insurance.Application.pdb
+/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/src/Insurance.Application/obj/Debug/net8.0/ref/Insurance.Application.dll

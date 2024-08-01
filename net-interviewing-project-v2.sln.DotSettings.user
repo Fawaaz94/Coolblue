@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e72f5493_002D7144_002D45f8_002Db148_002De9c67a6979a4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;tests&amp;gt;\&amp;lt;Application.Functional.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/fdassie/Documents/coolblue/net-interviewing-project-v2/tests/Application.Functional.Tests" Presentation="&amp;lt;tests&amp;gt;\&amp;lt;Application.Functional.Tests&amp;gt;" /&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::AEE02599-F2B9-499A-8632-08C47DCF03E8::net8.0::Application.Unit.Tests.Services.InsuranceCalculatorTests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::AEE02599-F2B9-499A-8632-08C47DCF03E8::net8.0::Application.Unit.Tests.Services.InsuranceServicesTests.CalculateProductInsuranceAsync_ProductNotFound_ReturnsEmptyInsuranceDto&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::AEE02599-F2B9-499A-8632-08C47DCF03E8::net8.0::Application.Unit.Tests.Services.InsuranceServicesTests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::734170D2-A237-4A66-B0D3-5ECDCF305F57::net8.0::Api.Behavioral.Tests.InsuranceControllerTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
